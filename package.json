@@ -1,6 +1,6 @@
 {
-  "name": "bitcoint-scraper",
-  "version": "0.0.0",
+  "name": "bitcoin-scraper",
+  "version": "0.0.1",
   "description": "scrapes bitcoin data to json",
   "main": "index.js",
   "author": "Alistair MacDonald <al@pwn.io>",
