@@ -4,9 +4,9 @@ var getJSON = require('get-json')
 
 var fetch = {
   market: 'bitstampUSD',
-  from: { year:2011, month:9, day:13 },
-  to: { year:2014, month:12, day:20 },
-  dataSourceURL: 'http://bitcoincharts.com/charts/chart.json?'+'m='+'bitstampUSD'+'&r=1&i=1-min&e'
+  from: { year:2012, month:1, day:9 },
+  to: { year:2016, month:12, day:20 },
+  dataSourceURL: 'http://bitcoincharts.com/charts/chart.json?'+'m='+'bitstampUSD'+'&r=1&i=15-min&e'
 }
 
 function url(baseurl, date){
